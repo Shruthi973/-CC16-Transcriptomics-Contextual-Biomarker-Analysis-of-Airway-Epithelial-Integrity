@@ -1,4 +1,11 @@
 # -CC16-Transcriptomics-Contextual-Biomarker-Analysis-of-Airway-Epithelial-Integrity
+
+<p align="center">
+  <img src="LUNG EPITHELIUM.png" width="850" alt="CC16-Transcriptomics"/>
+  <br>
+  <em>Airway epithelial biomarker</em>
+</p>
+
 CC16-Transcriptomics is a probe-validated transcriptomic analysis project investigating CC16 (SCGB1A1 / uteroglobin) as a context-dependent airway epithelial biomarker using public bronchial epithelial gene-expression data. 
 
 # ⬛ CC16 (SCGB1A1 / Uteroglobin) Signal Analysis in Bronchial Epithelial Samples
